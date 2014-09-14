@@ -40,5 +40,11 @@
         "target_path": "hardware/sony/DASH",
         "remote": "github",
         "branch": "cm-11.0"
-    }
+    },
+    {
+       "repository": "SlimRoms/kernel_sony_apq8064",
+       "target_path": "kernel/sony/apq8064",
+       "remote": "github",
+       "branch": "kk4.4"
+     }
 ]
