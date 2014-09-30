@@ -1,7 +1,7 @@
 $(call inherit-product, device/sony/yuga/full_yuga.mk)
 
 # Inherit common Phone stuff.
-$(call inherit-product, vendor/candycat/config/common_full_phone.mk)
+$(call inherit-product, vendor/candykat/config/common_full_phone.mk)
 
 # Enhanced NFC
 $(call inherit-product, vendor/candykat/config/nfc_enhanced.mk)
